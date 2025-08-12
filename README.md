@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ladycoderbeast
 - 👀 I’m interested in complex coding projects
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via mail info@hanatechnologies.org
 
 <!---
